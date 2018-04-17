@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1520975333 source:c:\users\agpen\dropbox (adelino penedo)\programação(jogos)\c - snake conio\main.c
+	<time.h>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<stdint.h>
+
